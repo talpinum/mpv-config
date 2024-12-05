@@ -14,3 +14,5 @@ The script colors the playback bar pulling the accent color from
 
 If not possible, the bar is white
 
+*Note: accent color must be defined as "@define-color accent_bg_color #INSERT_HEX_HERE;", like gradience does to color gtk3 and gtk4 apps
+
