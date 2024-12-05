@@ -7,6 +7,7 @@ Alternatively:
 cd ~/.config/mpv && git clone https://github.com/talpinum/mpv-config.git
 ```
 
+
 ## Gradience support
 The script colors the playback bar pulling the accent color from 
 > ~/.config/gtk-4.0/gtk.css
