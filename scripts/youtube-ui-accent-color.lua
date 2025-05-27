@@ -135,7 +135,6 @@ function get_accent_bg_color(filepath)
         msg.error("accent_bg_color not found in the GTK config file.")
     else
         bgr_accent_color = "FFFFFF"
-        file:close()
     end
     return nil
 end
